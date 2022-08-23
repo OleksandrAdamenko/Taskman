@@ -7,6 +7,6 @@ Hello and welcome to **TaskMan's** GitHub page. TaskMan - simple, pretty and rel
 
 # Support the project
 
-If you wish to support this project, you can do that by visiting our website and checking out our premium offer.
+If you wish to support this project, you can do that by visiting our [website](https://oleksandradamenko.github.io/TaskMan/) and checking out our premium offer.
 
 **Thank you for using TaskMan**
