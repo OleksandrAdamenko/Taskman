@@ -1,7 +1,7 @@
 # Modern Taskman for Modern Human :)
 
 # Welcome to Taskman!
-Hello and welcome to **Taskman's** GitHub page. Taskman - simple, pretty and reliable taskmanager.
+Hello and welcome to **Taskman's** GitHub page. Taskman - perfect, ruthless and steadfast taskmanager.
 
 ## Installation
 
