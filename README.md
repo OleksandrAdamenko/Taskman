@@ -5,7 +5,7 @@ Hello and welcome to **Taskman's** GitHub page. Taskman - simple, pretty and rel
 
 ## Installation
 
-Taskman is available for Windows, Mac and Linux. You can download it from Taskman website.
+Taskman is available for Windows, Mac and Linux. You can download it from Taskman [website](https://oleksandradamenko.github.io/Taskman/).
 
 > Taskman is still a work in progress. Keep in mind that some features are not yet implemented and the UI, translations and current functionalities are being polished. Stay tuned for future releases, and follow our [website](https://oleksandradamenko.github.io/Taskman/) for additional infromation.
 
