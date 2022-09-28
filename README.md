@@ -1,4 +1,4 @@
-# Modern Taskman for Modern Human :)
+# Modern Taskman for Modern Human ;)
 
 # Welcome to Taskman!
 Hello and welcome to **Taskman's** GitHub page. Taskman - perfect, ruthless and steadfast taskmanager.
